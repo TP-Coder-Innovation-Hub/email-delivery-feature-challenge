@@ -4,7 +4,7 @@
 
 ### Business Domain or Category
 
-Communication & Messaging
+Customer Communication
 
 ### Project Description
 
