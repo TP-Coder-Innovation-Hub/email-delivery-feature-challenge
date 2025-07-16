@@ -8,7 +8,7 @@ Customer Communication
 
 ### Project Description
 
-A robust email delivery system that enables applications to send transactional, promotional, and notification emails to customers, clients, and users with reliable delivery tracking and management capabilities.
+A robust email delivery system that enables applications to send transactional, promotional, and notification emails to customers, clients, and users with reliable delivery tracking and management capabilities. (Traceability is optional here)
 
 ### Why
 
